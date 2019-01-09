@@ -11,7 +11,6 @@ export default {
   initialState: path.join(__dirname, '../../src/client/redux/initialState'),
   hoc: path.join(__dirname, '../../src/client/hoc'),
   assets: path.join(__dirname, '../../src/client/assets'),
-  constants: path.join(__dirname, '../../src/client/redux/constants'),
   routes: path.join(__dirname, '../../src/client/routes'),
   containers: path.join(__dirname, '../../src/client/containers')
 }
